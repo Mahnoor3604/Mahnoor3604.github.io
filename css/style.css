@@ -55,7 +55,7 @@ body {
 }
 .card-header{
   height:155px;
-  background-image:url("https://via.placeholder.com/350x250/78c5d6/fff");
+  background-image:url("python.png");
   background-size:cover;
   background-position:center center;
 }
@@ -72,10 +72,10 @@ body {
   background-image:url("TradingSoftware.png");
 }
 .card-header.ch6{
-  background-image:url("https://via.placeholder.com/350x250/e868a2/fff");
+  background-image:url("computer.png");
 }
 .card-header.ch7{
-  background-image:url("https://via.placeholder.com/350x250/e868a7/fff");
+  background-image:url("snake.png");
 }
 .card-body{
   padding:15px 15px 5px 15px;
